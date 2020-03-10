@@ -8,6 +8,8 @@ Date created: 02/26/2020
 
 CIS 422 Software Methodologies, Project 2.
 
+Development location: https://bitbucket.org/dylan-conway/deadzone422/src/master/ this is repo that received all project commits.
+
 ### Installation ###
 
 First, unzip the program directory deadzone422 into your preferred location. Second, use the terminal to execute the command pip3 install matplotlib.
