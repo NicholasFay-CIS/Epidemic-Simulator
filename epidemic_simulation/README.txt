@@ -8,7 +8,7 @@ Date created: 02/26/2020
 
 CIS 422 Software Methodologies, Project 2.
 
-Development location: https://bitbucket.org/dylan-conway/deadzone422/src/master/ this is repo that received all project commits.
+Development location: https://bitbucket.org/dylan-conway/deadzone422/src/master/ this is the repo that contains all project commits.
 
 ### Installation ###
 
