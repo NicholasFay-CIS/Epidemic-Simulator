@@ -1,6 +1,6 @@
 #### Epidemic Simulator ####
 
-An epidemic simulator to assist research with contagions such as COVID-19.
+An epidemic simulator to assist research with contagions with default configurations to model COVID-19.
 
 Group 4: Majed Almazrouei, Justin Becker, Dylan Conway, Kyle Diodati, and Nicholas Fay.
 
